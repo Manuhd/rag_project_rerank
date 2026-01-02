@@ -1,22 +1,29 @@
 
-# RAG System with Re-ranking
+## RAG System – Hallucination Control & Cost Monitoring Dashboard
 
-This project implements a **Retrieval-Augmented Generation (RAG)** pipeline with
-document ingestion, retrieval, re-ranking, self-correction, and evaluation
-metrics. The goal is to improve answer quality by selecting the most relevant
-context before generation.
+This project implements a Retrieval-Augmented Generation (RAG) system focused on reducing hallucinations and controlling LLM cost through re-ranking, self-correction, and detailed token & latency monitoring via a Streamlit dashboard.
 
 ---
 
-## Features
+## Problem This System Solves
 
-- CSV-based document ingestion
-- Embedding-based retrieval
-- Cross-encoder re-ranking
-- Self-correction mechanism
-- Token usage tracking
-- Ingestion and retrieval metrics
-- Structured logging
+Large Language Models can:
+
+Hallucinate answers
+
+Use irrelevant context
+
+Consume excessive tokens (high cost)
+
+## This system addresses those issues by:
+
+Selecting only the most relevant context
+
+Re-ranking retrieved documents
+
+Applying self-correction
+
+Tracking token usage, latency, and ingestion cost
 
 ---
 
