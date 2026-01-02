@@ -38,9 +38,9 @@ df, index = setup()
 
 
 # ---------------- INGESTION TOKEN METRICS (DYNAMIC) ----------------
-st.subheader("📦 Ingestion Token Metrics (One-Time Cost)")
+st.subheader("Ingestion Token Metrics (One-Time Cost)")
 
-# ✅ DEFINE ingestion_stats FIRST
+ DEFINE ingestion_stats FIRST
 ingestion_stats = ingestion_token_stats_from_df(df)
 
 col1, col2, col3 = st.columns(3)
@@ -57,7 +57,7 @@ with col3:
         f"{ingestion_stats['total_chunk_tokens']:,}"
     )
 
-st.caption("🔹 Embedding cost is paid only once during ingestion.")
+st.caption("Embedding cost is paid only once during ingestion.")
 
 # ---------------- USER INPUT ----------------
 query = st.text_input("Ask a question:")
