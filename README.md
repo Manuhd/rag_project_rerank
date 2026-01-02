@@ -8,7 +8,7 @@ context before generation.
 
 ---
 
-## 🔹 Features
+## Features
 
 - CSV-based document ingestion
 - Embedding-based retrieval
@@ -20,7 +20,7 @@ context before generation.
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 
@@ -44,12 +44,13 @@ rag-system/
 
 ---
 
-## ⚙️ Setup
+## Setup
 
 ### 1. Clone the repository
 ```bash
 git clone https://github.com/Manuhd/RAG.git
-cd RAG/rag-system
+
+cd RAG/rag_project_rerank
 ````
 
 ### 2. Install dependencies
@@ -58,15 +59,13 @@ cd RAG/rag-system
 pip install -r requirements.txt
 ```
 
-> Virtual environment is optional and not committed to the repo.
-
 ---
 
-## ▶️ Run the Project
+## Run the Project
 
-Step 1: Run Ingestion (One-Time / On Data Change)
+Step 1: 
 
-Run this only when:
+Run Ingestion (One-Time / On Data Change)
 
 ```
 py ingest.py
@@ -78,11 +77,11 @@ py main.py
 ```
 Step 3:
 ```
- streamlit run dashboard/streamlit_app.py
+ python -m streamlit run app.py
 ```
 ---
 
-## 🧠 RAG Pipeline Flow
+##  RAG Pipeline Flow
 
 1. Ingest documents from CSV
 2. Generate embeddings
@@ -94,23 +93,18 @@ Step 3:
 
 ---
 
-## 📊 Use Case
+## Use Case
 
 * FAQ systems
 * Loan / banking Q&A
 * Enterprise document search
 * Knowledge assistants
 
----
 
 
 ---
 
-## 👤 Author
+## Author
 
 **Manu**
 GenAI | RAG | Agentic AI
-
-````
-
----
