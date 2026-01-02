@@ -1,0 +1,108 @@
+timestamp,question,answer,faithfulness,hallucination_risk,corrected
+2025-12-14 06:22:58.361939 UTC,What is emi?,EMI is the monthly payment made by borrower.,1.0,0.0%,No
+2025-12-14 06:26:41.182888 UTC,what is emi for home loan?,I don't know,0.33,66.67%,Yes
+2025-12-14 06:54:47.295337 UTC,What is a home loan?,A home loan is a secured loan used to buy a house.,1.0,0.0%,No
+2025-12-14 06:55:26.066526 UTC, What is loan tenure?,Loan tenure is duration for repayment.,1.0,0.0%,No
+2025-12-14 06:56:16.509315 UTC,What is interest rate?,Interest rate is the cost charged by lender on loan amount.,1.0,0.0%,No
+2025-12-14 07:30:10.827536 UTC,What is loan tenure?,Loan tenure is duration for repayment.,1.0,0.0%,No
+2025-12-14 07:32:27.343306 UTC,What is loan tenure for home?,I don't know,0.33,66.67%,Yes
+2025-12-14 09:08:23.452566 UTC,emi,EMI is the monthly payment made by borrower.,1.0,0.0%,No
+2025-12-14 10:17:46.916045 UTC,emi on car?,I don't know,0.33,66.67%,Yes
+2025-12-14 10:36:13.273953 UTC,what is emi for home loan?,I don't know,0.33,66.67%,Yes
+2025-12-14 10:36:34.282703 UTC,What is a home loan?,A home loan is a secured loan used to buy a house.,1.0,0.0%,No
+2025-12-14 11:21:38.708368 UTC,What is a home?,I don't know,0.33,66.67%,Yes
+2025-12-14 11:28:11.049559 UTC,What is loan?,I don't know,0.33,66.67%,Yes
+2025-12-14 11:29:34.298156 UTC,What is a home loan rate of interest?,I don't know,0.33,66.67%,Yes
+2025-12-14 11:31:18.893617 UTC,loan tenure,Loan tenure is duration for repayment.,1.0,0.0%,No
+2025-12-14 11:33:29.842402 UTC,Expain about EMI?,EMI is the monthly payment made by borrower.,1.0,0.0%,No
+2025-12-15 07:32:06.208048 UTC,emi,EMI is the monthly payment made by borrower.,1.0,0.0%,No
+2025-12-15 08:08:38.673106 UTC,loan,Loan is duration for repayment.,1.0,0.0%,No
+2025-12-15 08:43:25.648779 UTC,what is emi for home loan?,I don't know,0.33,66.67%,Yes
+2025-12-15 08:44:01.766803 UTC,what is emi for home loan?,I don't know,0.33,66.67%,Yes
+2025-12-15 08:44:32.206711 UTC,What is interest rate?,Interest rate is the cost charged by lender on loan amount.,1.0,0.0%,No
+2025-12-15 09:23:27.898860 UTC,emi,EMI is the monthly payment made by borrower.,1.0,0.0%,No
+2025-12-15 09:27:47.182707 UTC,What is emi?,EMI is the monthly payment made by borrower.,1.0,0.0%,No
+2025-12-15 09:28:02.602597 UTC,what is emi for home loan?,I don't know,0.33,66.67%,Yes
+2025-12-15 09:31:00.508701 UTC,emi,EMI is the monthly payment made by borrower.,1.0,0.0%,No
+2025-12-15 09:56:37.820137 UTC,emi,EMI is the monthly payment made by borrower.,1.0,0.0%,No
+2025-12-15 10:01:59.739248 UTC,emi,EMI is the monthly payment made by borrower.,1.0,0.0%,No
+2025-12-15 10:04:49.935101 UTC,emi,EMI is the monthly payment made by borrower.,1.0,0.0%,No
+2025-12-15 10:37:07.147895 UTC,what is emi?,EMI is the monthly payment made by borrower.,1.0,0.0%,No
+2025-12-16 05:11:18.237841 UTC,what is emi?,EMI is the monthly payment made by borrower.,1.0,0.0%,No
+2025-12-16 16:33:29.203249 UTC,what is emi for home loan?,I don't know,0.33,66.67%,Yes
+2025-12-16 16:37:52.334128 UTC,What is emi,EMI is the monthly payment made by borrower.,1.0,0.0%,No
+2025-12-16 16:38:22.340454 UTC,What is loan,Loan is duration for repayment.,1.0,0.0%,No
+2025-12-16 16:38:35.961027 UTC,What is loan,Loan is duration for repayment.,1.0,0.0%,No
+2025-12-16 16:38:46.845479 UTC,What is loan,Loan is duration for repayment.,1.0,0.0%,No
+2025-12-16 16:39:31.155334 UTC,what is emi?,EMI is the monthly payment made by borrower.,1.0,0.0%,No
+2025-12-16 16:39:51.294906 UTC,what is emi?,EMI is the monthly payment made by borrower.,1.0,0.0%,No
+2025-12-16 16:40:08.123191 UTC,what is emi?,EMI is the monthly payment made by borrower.,1.0,0.0%,No
+2025-12-16 16:59:59.995574 UTC,what is emi for home loan?,I don't know,0.33,66.67%,Yes
+2025-12-16 17:00:32.503409 UTC,what is emi for home loan?,I don't know,0.33,66.67%,Yes
+2025-12-16 17:01:09.234017 UTC,emi,EMI is the monthly payment made by borrower.,1.0,0.0%,No
+2025-12-16 17:01:25.461384 UTC,emi,EMI is the monthly payment made by borrower.,1.0,0.0%,No
+2025-12-16 17:01:35.651920 UTC,emi,EMI is the monthly payment made by borrower.,1.0,0.0%,No
+2025-12-16 17:02:22.422559 UTC,emi,I don't know,0.33,66.67%,Yes
+2025-12-16 17:02:35.531341 UTC,emi,EMI is the monthly payment made by borrower.,1.0,0.0%,No
+2025-12-16 17:02:47.648464 UTC,emi,EMI is the monthly payment made by borrower.,1.0,0.0%,No
+2025-12-16 17:03:12.104224 UTC,emi,EMI is the monthly payment made by borrower.,1.0,0.0%,No
+2025-12-16 17:06:39.201508 UTC,loan,duration for repayment,1.0,0.0%,No
+2025-12-16 17:06:59.620457 UTC,loan,duration for repayment,1.0,0.0%,No
+2025-12-16 17:24:40.484318 UTC,Expain about EMI?,EMI is the monthly payment made by borrower.,1.0,0.0%,No
+2025-12-16 17:24:50.641943 UTC,Expain about EMI?,EMI is the monthly payment made by borrower.,1.0,0.0%,No
+2025-12-16 17:25:19.592946 UTC,loan,duration for repayment,1.0,0.0%,No
+2025-12-16 17:25:29.941076 UTC,loan,duration for repayment,1.0,0.0%,No
+2025-12-16 17:25:39.198509 UTC,loan,duration for repayment,1.0,0.0%,No
+2025-12-16 17:36:55.477120 UTC,loan,duration for repayment,1.0,0.0%,No
+2025-12-17 10:22:00.413928 UTC,what is emi?,EMI is the monthly payment made by borrower.,1.0,0.0%,No
+2025-12-24 11:07:23.604922 UTC,What is EMI?,EMI is the monthly payment made by borrower.,1.0,0.0%,No
+2025-12-28 05:10:19.194852 UTC,What is EMI?,EMI is the monthly payment made by borrower.,1.0,0.0%,No
+2025-12-28 05:35:27.045129 UTC,loan,duration for repayment,1.0,0.0%,No
+2025-12-28 05:36:19.606252 UTC,home loan,A home loan is a secured loan used to buy a house.,1.0,0.0%,No
+2025-12-28 06:28:36.918398 UTC,What is EMI?,EMI is the monthly payment made by borrower.,1.0,0.0%,No
+2025-12-28 06:30:06.777950 UTC,What is EMI?,EMI is the monthly payment made by borrower.,1.0,0.0%,No
+2025-12-28 06:32:27.103023 UTC,loan,duration for repayment,1.0,0.0%,No
+2025-12-28 06:33:24.563527 UTC,What is loan,Loan is duration for repayment.,1.0,0.0%,No
+2025-12-28 06:37:46.760979 UTC,What is EMI?,EMI is the monthly payment made by borrower.,1.0,0.0%,No
+2025-12-28 06:39:33.162578 UTC,What is EMI? and  What is home loan?,"A home loan is a secured loan used to buy a house.
+
+I don't know",0.87,13.33%,No
+2025-12-28 06:45:33.280431 UTC,What is EMI? and  What is home loan?,"EMI is the monthly payment made by borrower.
+A home loan is a secured loan used to buy a house.",1.0,0.0%,No
+2025-12-28 06:45:52.617187 UTC,Manu,I don't know,0.33,66.67%,Yes
+2025-12-28 06:46:44.505864 UTC,What is loan tenure and interest rate?,Interest rate is the cost charged by lender on loan amount. Loan tenure is duration for repayment.,1.0,0.0%,No
+2025-12-28 06:52:16.186996 UTC,What is loan tenure and interest rate?,"Hello there! Based on the information provided:
+
+The **interest rate** is the cost that a lender charges for a loan amount.
+
+And the **loan tenure** is the duration for which you need to repay the loan.",0.53,47.22%,No
+2025-12-28 06:56:05.768902 UTC,What is loan tenure and interest rate?,The interest rate is the cost a lender charges on a loan amount. The loan tenure is the duration for repayment.,0.95,4.76%,No
+2025-12-28 06:56:41.546224 UTC,What is loan tenure and interest rate and loan?,Loan tenure is the duration for repayment. The interest rate is the cost charged by a lender on the loan amount.,1.0,0.0%,No
+2025-12-28 06:57:07.495584 UTC,What is loan tenure and interest rate and what is loan?,"Loan tenure is the duration for repayment of a loan. The interest rate is the cost charged by the lender on the loan amount.
+
+I don't know",0.85,14.81%,No
+2025-12-28 07:06:03.588528 UTC,What is loan tenure for home?,I don't know,0.33,66.67%,Yes
+2025-12-28 07:06:48.773343 UTC,What emi and loan and loan tenure?,I don't know,0.33,66.67%,Yes
+2025-12-28 07:07:09.113665 UTC,What emi and loan and loan tenure?,I don't know,0.33,66.67%,Yes
+2025-12-28 07:07:33.666862 UTC,What is EMI and loan and loan tenure?,"I can tell you about loan and loan tenure!
+
+Loan tenure is the duration for repayment. A loan is also the duration for repayment.
+
+I don't know what EMI is.",0.53,46.67%,No
+2025-12-28 07:20:59.299114 UTC,What is EMI?,"EMI stands for Equated Monthly Installment, and it's the monthly payment a borrower makes.",0.5,50.0%,No
+2025-12-28 07:32:28.497551 UTC,What is loan tenure and interest rate and what is loan?,Loan tenure is the duration for repayment. The interest rate is the cost charged by the lender on the loan amount. And a loan is also the duration for repayment.,0.93,6.67%,No
+2025-12-28 07:33:28.153410 UTC,What is loan tenure and interest rate and what is loan and emi?,"Loan tenure is the duration for repayment. The interest rate is the cost charged by the lender on the loan amount. The context provided defines loan tenure and interest rate, but it doesn't explain what EMI is.",0.68,32.43%,No
+2025-12-28 07:43:32.500999 UTC,What is loan tenure and interest rate and what is loan and emi?,Loan tenure is the duration for repayment. The interest rate is the cost charged by the lender on the loan amount. Loan is also the duration for repayment. The context does not mention EMI.,0.82,17.65%,No
+2025-12-28 07:44:02.873153 UTC,What is loan tenure and interest rate and what is loan and emi?,"Loan tenure is the duration for repayment. The interest rate is the cost charged by the lender on the loan amount. The context also states that a loan is a duration for repayment. However, information about EMI is not provided.",0.75,25.0%,No
+2025-12-28 07:49:58.622144 UTC,What is loan tenure and interest rate and what is loan and emi?,"Loan tenure is the duration for repayment. The interest rate is the cost charged by the lender on the loan amount. The context provided defines loan tenure and interest rate, but it does not define EMI.",0.69,30.56%,No
+2025-12-28 07:50:43.459985 UTC,What is loan tenure and interest rate and what is loan?,"Loan tenure is the duration for repayment. The interest rate is the cost charged by the lender on the loan amount. And, a loan is also a duration for repayment.",0.93,6.67%,No
+2025-12-28 12:05:06.665845 UTC,What is loan tenure and interest rate and what is loan?,"Loan tenure is the duration for repayment. The interest rate is the cost charged by the lender on the loan amount. And, a loan is also a duration for repayment.",0.93,6.67%,No
+2025-12-28 12:05:48.986670 UTC,What is EMI?,"EMI stands for Equated Monthly Installment, and it's the monthly payment a borrower makes.",0.5,50.0%,No
+2025-12-28 12:08:23.660741 UTC,What is EMI?,EMI stands for the monthly payment a borrower makes.,0.67,33.33%,No
+2025-12-28 12:08:51.101300 UTC,What is EMI? and  What is home loan?,EMI stands for the monthly payment a borrower makes. A home loan is a secured loan that you use to purchase a house.,0.74,26.09%,No
+2025-12-28 12:13:21.272084 UTC,What is EMI? ,EMI stands for the monthly payment made by a borrower.,0.8,20.0%,No
+2025-12-28 12:13:34.745655 UTC,What is EMI,EMI stands for the monthly payment made by a borrower.,0.8,20.0%,No
+2025-12-28 12:17:27.308909 UTC,emi,EMI stands for the monthly payment made by a borrower.,0.8,20.0%,No
+2025-12-28 12:41:14.654824 UTC,emi,EMI stands for the monthly payment made by a borrower.,0.8,20.0%,No
+2025-12-29 10:29:28.703307 UTC,HI,I don't know,0.0,100.0%,Yes
+2025-12-29 10:29:46.485127 UTC,EMI,EMI is the monthly payment made by a borrower.,1.0,0.0%,No
