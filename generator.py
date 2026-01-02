@@ -9,7 +9,7 @@ load_dotenv()
 genai.configure(api_key=os.getenv("GEMINI_API_KEY"))
 
 generation_config = {
-    "temperature": 0.6,      # 👈 creativity control
+    "temperature": 0.6,      # creativity control
     "top_p": 0.9,
     "max_output_tokens": 230
 }
