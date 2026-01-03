@@ -1,0 +1,26 @@
+# Core Python
+numpy
+pandas
+
+# ANN / Vector Search
+faiss-cpu
+
+# Embeddings & LLM
+sentence-transformers
+transformers
+torch
+
+# RAG utilities
+scikit-learn
+
+# Dashboard
+streamlit
+
+# Logging & Metrics
+loguru
+
+# Token & cost estimation
+tiktoken
+
+# Environment variables (optional, but common)
+python-dotenv
